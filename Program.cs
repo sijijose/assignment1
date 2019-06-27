@@ -8,6 +8,7 @@ namespace assignment1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to GITHUB");
+            Console.WriteLine("SIJI JOSE");
         }
     }
 }
